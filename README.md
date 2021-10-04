@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @murchona006
+- 👀 I’m interested in problem solving and exploring different technologies
+- 🌱 I’m currently learning java development and moving forward to android app development
