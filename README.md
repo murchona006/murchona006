@@ -26,31 +26,7 @@ I build scalable backend systems with a focus on **transaction safety, concurren
 
 **Previous Experience:** Flutter, Dart, Mobile Application Development
 
-### 📌 Featured Projects
 
-#### [Appointment Booking System](https://github.com/murchona006/appointment-booking-system)
-
-Production-oriented appointment booking backend with:
-
-* Transaction-safe reservations configuration
-* PostgreSQL row-level locking
-* Double-booking prevention
-* Idempotent booking
-* Concurrency protection
-
-**Tech:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Docker · Pytest
-
-#### [Scalable E-Commerce Backend](https://github.com/murchona006/scalable-ecommerce-backend)
-
-E-commerce backend focused on reliable order processing and inventory management.
-
-* Transaction-safe order creation
-* Inventory concurrency control
-* JWT authentication and role-based access
-* Idempotent order creation
-* Celery-based background processing
-
-**Tech:** Python · FastAPI · PostgreSQL · SQLAlchemy · Celery · Redis · Docker
 
 ### Currently Learning
 
