@@ -6,11 +6,13 @@ Backend-focused software developer transitioning from professional Flutter appli
 
 I build scalable backend systems with a focus on **transaction safety, concurrency control, data integrity, and reliable API design.**
 
-###  What I'm Working On
+### What I'm Working On
 
-* Building backend systems with Python, FastAPI, Django and PostgreSQL.
+* Building backend systems with Python, FastAPI, Django, and PostgreSQL.
 * Designing transaction-safe APIs and concurrency-aware workflows.
-* Improving my understanding of database transactions, locking, idempotency, and system reliability.
+* Focusing on real-world backend engineering challenges, including data integrity, concurrent requests, and system reliability.
+* Improving my understanding of database transactions, locking, idempotency, and production reliability.
+
 
 ###  Tech Stack
 
@@ -30,7 +32,7 @@ I build scalable backend systems with a focus on **transaction safety, concurren
 
 Production-oriented appointment booking backend with:
 
-* Transaction-safe reservations
+* Transaction-safe reservations configuration
 * PostgreSQL row-level locking
 * Double-booking prevention
 * Idempotent booking
