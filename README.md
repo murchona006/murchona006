@@ -1,6 +1,6 @@
 # Hey, I'm Murchona 
 
-## Python Backend Engineer | FastAPI | Django | PostgreSQL
+## Python Backend Engineer  |  FastAPI  |  Django  |  PostgreSQL
 
 Backend-focused software developer transitioning from professional Flutter application development to Python backend engineering.
 
