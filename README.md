@@ -1,4 +1,4 @@
-# Hi, I'm Murchona Acharjee 
+# Hey, I'm Murchona 
 
 ## Python Backend Engineer | FastAPI | Django | PostgreSQL
 
