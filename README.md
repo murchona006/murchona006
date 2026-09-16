@@ -1,17 +1,17 @@
 # Hi, I'm Murchona Acharjee 
 
-### Python Backend Engineer | FastAPI | Django | PostgreSQL
+## Python Backend Engineer | FastAPI | Django | PostgreSQL
 
 Backend-focused software developer transitioning from professional Flutter application development to Python backend engineering.
 
-I build scalable backend systems with a focus on **transaction safety, concurrency control, data integrity, and reliable API design.**
+I build scalable backend systems with a focus on real-world concerns as **transaction safety, concurrency control, data integrity, and reliable API design.**
 
-### What I'm Working On
+### What I'm Working On Currently
 
 * Building backend systems with Python, FastAPI, Django, and PostgreSQL.
 * Designing transaction-safe APIs and concurrency-aware workflows.
-* Focusing on real-world backend engineering challenges, including data integrity, concurrent requests, and system reliability.
-* Improving my understanding of database transactions, locking, idempotency, and production reliability.
+* Focusing on real-world backend engineering challenges, including data integrity, concurrent requests, and system performance and reliability.
+* Improving my understanding of database transactions, locking, idempotency, optimisation and production reliability.
 
 
 ###  Tech Stack
