@@ -8,9 +8,6 @@ I build scalable backend systems with a focus on real-world concerns as **transa
 
 ### What I'm Working On Currently
 
-* Building backend systems with Python, FastAPI, Django, and PostgreSQL.
-* Designing transaction-safe APIs and concurrency-aware workflows.
-* Focusing on real-world backend engineering challenges, including data integrity, concurrent requests, and system performance and reliability.
 * Improving my understanding of database transactions, locking, idempotency, optimisation and production reliability.
 
 
@@ -25,10 +22,3 @@ I build scalable backend systems with a focus on real-world concerns as **transa
 **Testing & Tools:** Pytest, Docker, Git, REST APIs
 
 **Previous Experience:** Flutter, Dart, Mobile Application Development
-
-
-
-### Currently Learning
-
-Backend engineering, database internals, distributed systems fundamentals, and production reliability.
-
