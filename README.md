@@ -2,9 +2,7 @@
 
 ## Python Backend Engineer  |  FastAPI  |  Django  |  PostgreSQL
 
-Backend-focused software developer transitioning from professional Flutter application development to Python backend engineering.
-
-I build scalable backend systems with a focus on real-world concerns as **transaction safety, concurrency control, data integrity, and reliable API design.**
+Backend-focused software developer transitioning from professional Flutter application development to Python backend engineering. I build scalable backend systems with a focus on real-world concerns as **transaction safety, concurrency control, data integrity, and reliable API design.**
 
 ### What I'm Working On Currently
 
