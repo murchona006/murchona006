@@ -9,16 +9,3 @@ I build scalable backend systems with a focus on real-world concerns as **transa
 ### What I'm Working On Currently
 
 * Improving my understanding of database transactions, locking, idempotency, optimisation and production reliability.
-
-
-###  Tech Stack
-
-**Backend:** Python, FastAPI, Django, SQLAlchemy, Alembic
-
-**Database:** PostgreSQL
-
-**Background Processing:** Celery, Redis
-
-**Testing & Tools:** Pytest, Docker, Git, REST APIs
-
-**Previous Experience:** Flutter, Dart, Mobile Application Development
